@@ -1,0 +1,14 @@
+/*
+    p{
+            color:red;
+            font-weight: bold;
+            font-size: 100px;
+           }*/
+
+p, h1,h4 {
+    color:red;
+}
+
+div p {
+    color:green;
+}
